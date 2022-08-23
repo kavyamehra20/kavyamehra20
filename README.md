@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavya Mehra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://media.giphy.com/media/3o6UBpHgaXFDNAuttm/giphy.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavyamehra20" alt="kavyamehra20" /></a> </p>
 
 - 📫 How to reach me **mehra.kavya20@gmail.com**
 
