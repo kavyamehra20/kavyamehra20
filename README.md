@@ -1,7 +1,6 @@
-<h1 align="center">I'm Kavya Mehra</h1>
+<h1 align="center">Hi, I'm Kavya Mehra</h1>
 <img src="https://camo.githubusercontent.com/bd6b3682a8f5e87c1f3e703c44b5f149a63b91fbfa81cd57ef8d1616e88f9ded/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d3435666661612673697a653d34302677696474683d393030266865696768743d3830266c696e65733d57656c636f6d652d746f2d4d792d4769744875622d50616765">
 
-<img src="https://giphy.com/stickers/thanks-zmei-hellorabbits-dCp5cwR1fMa4F2Whiz">
 
 
 - 📫 How to reach me **mehra.kavya20@gmail.com**
@@ -21,4 +20,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kavyamehra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kavyamehra" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyamehra20&show_icons=true&locale=en&layout=compact" alt="kavyamehra20" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyamehra20&show_icons=true&locale=en&layout=compact" alt="kavyamehra20" /></p>
