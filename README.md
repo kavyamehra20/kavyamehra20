@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Kavya Mehra 👋</h1>
 
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.clipartmax.com%2Fpng%2Fmiddle%2F261-2615269_waving-hand-sign-hello-hand-wave.png&imgrefurl=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7i8i8H7G6b1Z5_waving-hand-sign-hello-hand-wave%2F&tbnid=27xGb1D1-SY1AM&vet=12ahUKEwip3On5x7f6AhXqgGMGHaK5BHUQMygjegUIARCoAg..i&docid=wCyDODe1yzG-kM&w=840&h=593&q=hand%20wave%20gif%20transparent&ved=2ahUKEwip3On5x7f6AhXqgGMGHaK5BHUQMygjegUIARCoAg">
+
 - 📫 How to reach me **mehra.kavya20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
